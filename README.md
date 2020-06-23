@@ -7,4 +7,4 @@ Both features can be disabled/enabled independently of each other
 Compatibility
 --
 - Better-technology (techno)
--> Affects combined modules as well as productivity modules
+-> Affects combined modules (if combined modules are enabled)
