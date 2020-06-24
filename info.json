@@ -1,9 +1,9 @@
 {
     "name": "zzz-productivity-4-all",
-    "version": "0.0.2",
+    "version": "0.0.3-alpha",
     "title": "Productivity4All",
     "author": "ToastOrBeToasted",
     "factorio_version": "0.18",
-    "dependencies": ["base >= 0.18", "? techno"],
+    "dependencies": ["base >= 0.18", "(?) space-exploration", "(?) techno"],
     "description": "Allow productivity modules on all recipes, as well as on beacons"
   }
