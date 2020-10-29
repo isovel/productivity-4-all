@@ -1,4 +1,7 @@
-Description
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+
+productivity 4 all
 --
 A Factorio mod that allows productivity modules to be used on all recipes, as well as in beacons.
 
